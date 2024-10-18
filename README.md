@@ -1,3 +1,7 @@
+# Here, first you have too run npm i and npm start inside the backend folder and then inside the parent project folder
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
